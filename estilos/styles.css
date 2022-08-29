@@ -32,7 +32,7 @@ body {
 
 .c1 {
     grid-area: cabecera;
-    background-color: lightskyblue;
+    background-image:linear-gradient(80deg, blue 30%, black);
     justify-content: center;
     align-items: center;
 }
@@ -59,7 +59,7 @@ body {
 
 .c5 {
     grid-area: footer;
-    background-color: lightpink;
+    background-image:radial-gradient(green, orange);
 }
 
 .navBar {
